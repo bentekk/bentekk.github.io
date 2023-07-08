@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkatella"]=self["webpackChunkatella"]||[]).push([[443],{833:function(a,n,t){t.r(n),t.d(n,{default:function(){return f}});var e=t(3396);const u={class:"about"},r=(0,e._)("h1",null,"This is an about page",-1),s=[r];function l(a,n){return(0,e.wg)(),(0,e.iD)("div",u,s)}var c=t(89);const i={},o=(0,c.Z)(i,[["render",l]]);var f=o}}]);
+//# sourceMappingURL=about.6003bd3e.js.map
